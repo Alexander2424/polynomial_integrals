@@ -1,5 +1,5 @@
 /*
- *Final Programming Project by ah760
+ *Programming Project by Alexander2424 to calculate integrals for up to 4th order polynomials.
  */
 
 #include <stdio.h>
@@ -247,6 +247,8 @@ void correct_answer(struct coeffs z){
  Have managed to successfully perform each integral type:
  
  This program will perform integration of various types.
+ 
+ Example terminal output:
  What order polynomial do you want to integrate?
  2
  You will need 3 coefficients for a 2 order polynomial, what are they going to be?
