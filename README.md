@@ -7,7 +7,7 @@ The 3 methods are the following:
 2. Simpson's rule
 3. Algebraic integration
 
-For methods 1 and 2, the limits of the integral are to be entered by the user and the result using that method is compared against the result using algebraic integration i.e., vs the correct answer.
+For methods 1 and 2, the limits of the integral are to be entered by the user and the result using that method is compared against the result using algebraic integration (most accurate result).
 
 
 
