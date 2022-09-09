@@ -1,4 +1,5 @@
 # Polynomial Integration
+_Spring 2019_
 
 The aim of this c program is to provide the user of the program 3 different methods by which they can calculate a polynomial integral (up to the 4th order) e.g., _y = ax^3 + bx^2 + cx + d_.
 
